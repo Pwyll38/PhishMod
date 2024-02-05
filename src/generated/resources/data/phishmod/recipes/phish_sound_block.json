@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "P": {
+      "item": "phishmod:phish"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PNP",
+    "PPP"
+  ],
+  "result": {
+    "item": "phishmod:phish_sound_block"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "phishmod:phish"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " P ",
+    "ISI",
+    "ISI"
+  ],
+  "result": {
+    "item": "phishmod:phish_tool"
+  },
+  "show_notification": true
+}

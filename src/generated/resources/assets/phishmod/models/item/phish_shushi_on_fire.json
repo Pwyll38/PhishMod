@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "phishmod:item/phish_shushi_on_fire"
+  }
+}

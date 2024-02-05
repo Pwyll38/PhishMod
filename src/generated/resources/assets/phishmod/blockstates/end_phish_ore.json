@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "phishmod:block/end_phish_ore"
+    }
+  }
+}

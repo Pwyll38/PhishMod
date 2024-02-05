@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "phishmod:phish_block"
+    }
+  ],
+  "result": {
+    "item": "phishmod:phish_block_button"
+  }
+}

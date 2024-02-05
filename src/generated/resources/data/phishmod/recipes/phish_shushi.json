@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:dried_kelp"
+    },
+    "P": {
+      "item": "phishmod:phish"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DPD",
+    "DDD"
+  ],
+  "result": {
+    "item": "phishmod:phish_shushi"
+  },
+  "show_notification": true
+}

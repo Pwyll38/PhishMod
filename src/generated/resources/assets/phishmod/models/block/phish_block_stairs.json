@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "phishmod:block/phish_block",
+    "side": "phishmod:block/phish_block",
+    "top": "phishmod:block/phish_block"
+  }
+}

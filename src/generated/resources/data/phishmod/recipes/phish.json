@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "phishmod:nether_phish"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "phishmod:phish"
+  }
+}

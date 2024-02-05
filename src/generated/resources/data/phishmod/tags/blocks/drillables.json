@@ -1,0 +1,8 @@
+{
+  "values": [
+    "phishmod:end_phish_ore",
+    "#forge:ores",
+    "phishmod:nether_phish_ore",
+    "#forge:ores"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "phishmod:phish"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "PP ",
+    "PS ",
+    " S "
+  ],
+  "result": {
+    "item": "phishmod:phish_axe"
+  },
+  "show_notification": true
+}

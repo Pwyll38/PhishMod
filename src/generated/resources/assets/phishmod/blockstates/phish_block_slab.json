@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "phishmod:block/phish_block_slab"
+    },
+    "type=double": {
+      "model": "phishmod:block/phish_block"
+    },
+    "type=top": {
+      "model": "phishmod:block/phish_block_slab_top"
+    }
+  }
+}

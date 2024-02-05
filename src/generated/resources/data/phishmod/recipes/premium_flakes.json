@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:glass_bottle"
+    },
+    "S": {
+      "item": "phishmod:phish_shushi"
+    }
+  },
+  "pattern": [
+    " S ",
+    " B ",
+    "   "
+  ],
+  "result": {
+    "item": "phishmod:premium_flakes"
+  },
+  "show_notification": true
+}

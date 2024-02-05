@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:compass"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "P": {
+      "item": "phishmod:phish"
+    }
+  },
+  "pattern": [
+    "PDP",
+    "PCP",
+    "PPP"
+  ],
+  "result": {
+    "item": "phishmod:diamond_radar"
+  },
+  "show_notification": true
+}

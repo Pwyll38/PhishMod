@@ -1,0 +1,7 @@
+// 1.20.1	2024-01-16T18:40:42.3629786	Tags for minecraft:block mod id phishmod
+808734b3d3480eeeba8f41038d699b120ef4f855 data/minecraft/tags/blocks/fences.json
+0b41dcc8790008f6855bc0c65241dc5c0e3a5c28 data/minecraft/tags/blocks/fence_gates.json
+2c0dca71d43e618d9bf95cddb8eab17ba6fc4d47 data/minecraft/tags/blocks/needs_iron_tool.json
+c6701df3c03e7ee60e225308080909669fb54140 data/minecraft/tags/blocks/walls.json
+63e78ae5e46ecd9cb71ddcf21e6d38e2bbb159bc data/phishmod/tags/blocks/drillables.json
+b147fcff5c0b4d72df1cb7809b063b2562180832 data/phishmod/tags/blocks/saw_sawables.json

@@ -1,0 +1,64 @@
+{
+    "item.phishmod.phish": "Phish",
+    "item.phishmod.raw_phish": "Raw phish",
+    "item.phishmod.nether_phish": "Nether phish",
+    "item.phishmod.end_phish": "End phish",
+    "item.phishmod.phish_on_fire": "Phish on fire",
+    "item.phishmod.diamond_radar": "Diamond radar",
+    "item.phishmod.phish_bomb": "Phish bomb",
+    "item.phishmod.phish_saw": "Phish saw",
+    "item.phishmod.phish_drill": "Phish drill",
+    "item.phishmod.phish_shushi": "Phish roll",
+    "item.phishmod.phish_shushi_on_fire": "Phish roll on fire",
+    "item.phishmod.premium_flakes": "§gFremium Plakes",
+    "item.phishmod.creaturo": "Creaturo",
+    "item.phishmod.phusho": "Phusho",
+
+    "item.phishmod.phish_sword": "Phish sword",
+    "item.phishmod.phish_pickaxe": "Phish pickaxe",
+    "item.phishmod.phish_axe": "Phish axe",
+    "item.phishmod.phish_shovel": "Phish shovel",
+    "item.phishmod.phish_hoe": "Phish hoe",
+    "item.phishmod.phish_tool": "Phish tool",
+    
+
+    "item.phishmod.phish_helmet": "Phish helmet",
+    "item.phishmod.phish_chestplate": "Phish chestplate", 
+    "item.phishmod.phish_leggings": "Phish leggings",
+    "item.phishmod.phish_boots": "Phish boots",
+
+    "item.phishmod.tob_spawn_egg": "Tob spawn egg",
+    "item.phishmod.snorkel_spawn_egg": "Snorkel spawn egg",
+    "item.phishmod.moray_spawn_egg": "Moray spawn egg",
+
+
+    "block.phishmod.phish_block": "Block of Phish",
+    "block.phishmod.raw_phish_block": "Block of raw phish",
+    "block.phishmod.end_phish_ore": "End phish ore",
+    "block.phishmod.nether_phish_ore": "Nether phish ore",
+    "block.phishmod.phish_sound_block": "Phish music block",
+
+    "block.phishmod.phish_block_stairs": "Phish stairs",
+    "block.phishmod.phish_block_slab": "Phish slab",
+    "block.phishmod.phish_block_button": "Phish button",
+    "block.phishmod.phish_block_pressure_plate": "Phish pressure plate",
+    "block.phishmod.phish_block_fence": "Phish fence",
+    "block.phishmod.phish_block_fence_gate": "Phish fence gate",
+    "block.phishmod.phish_block_wall": "Phish wall",
+    "block.phishmod.phish_block_door": "Phish door",
+    "block.phishmod.phish_block_trapdoor": "Phish trapdoor",
+
+    "tooltip.phishmod.diamond_radar": "§7Click on a block to find diamonds bellow it",
+    "tooltip.phishmod.phish_saw": "§7Breaks multiple wood blocks",
+    "tooltip.phishmod.phish_drill": "§7Breaks the entire ore vein!",
+    "tooltip.phishmod.phish_on_fire": "§4Why did you do it",
+
+
+
+
+
+    "creativetab.phish_tab": "Phish Tab"
+    
+
+
+}

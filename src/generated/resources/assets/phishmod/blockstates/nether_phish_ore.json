@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "phishmod:block/nether_phish_ore"
+    }
+  }
+}

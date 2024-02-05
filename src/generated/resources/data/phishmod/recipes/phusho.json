@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "phishmod:phish"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "WWW",
+    "WWW"
+  ],
+  "result": {
+    "item": "phishmod:phusho"
+  },
+  "show_notification": true
+}
